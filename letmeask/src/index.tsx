@@ -9,3 +9,5 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
+
+// HTML dentro do JavaScript = JSX
