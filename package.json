@@ -1,5 +1,9 @@
 {
+  "name": "letmeask",
+  "version": "0.1.0",
+  "private": true,
   "dependencies": {
-    "firebase": "^8.6.8"
+    "firebase": "^8.6.8",
+    "node-sass": "^5.0.0"
   }
 }
